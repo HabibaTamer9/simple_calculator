@@ -26,7 +26,6 @@ class _MyAppState extends State<MyApp> {
   List<int> colors = [0xFF252525,0xFF252525,0xFF252525,0xFF252525,0xFF0f0f0e,0xFF0f0f0e,0xFF0f0f0e,0xFF252525,0xFF0f0f0e,0xFF0f0f0e,0xFF0f0f0e,0xFF252525,0xFF0f0f0e,0xFF0f0f0e,0xFF0f0f0e,0xFF252525,0xFF0f0f0e,0xFF0f0f0e,0xFF0f0f0e,0xFFc13900];
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
 
     return MaterialApp(
       home: Scaffold(
